@@ -1,0 +1,99 @@
+.container {
+    background-color: var(--color-background);
+    padding: 40px;
+    padding-bottom: 60px;
+    border-radius: var(--br-container);
+    text-align: center;
+    color:var(--color-dark);
+    margin-top: var(--padding-top-section);
+    /* border-top: 5px solid var(--color-primary); */
+  }
+  
+  .header {
+    background-color: var(--color-primary);
+    padding: 25px 55px;
+    /* border: 5px solid white;
+    border:4px solid #c1c1c1; */
+    box-shadow: 0px 20px 34px rgba(0, 0, 0, .15); 
+    border-radius: calc(var(--br-container) - 10px);
+    display: inline-block;
+    position: relative;
+    top: -80px;
+    direction: rtl;
+  }
+  .titleBox {
+    font-size: var(--fs-section-title);
+    color: var(--color-mediumaquamarine-100);
+    position: relative;
+    margin-bottom: 20px;
+  }
+  
+  .titleBackgroundAbout{
+    z-index: 0;
+    position: absolute;
+    border-radius: var(--br-sm);
+    background-color: var(--color-white);
+    width: 200px;
+    height: 27px;
+    bottom: 0;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .textContainer{
+    margin-top: -60px;
+  }
+  .letter {
+    fill:var(--color-primary);
+    height: 50px; /* Adjust the size as needed */
+    cursor: pointer; /* Add this line to make it clear that the images are clickable */
+    opacity: 0.4; /* Default opacity for inactive letters */
+    transition: opacity 0.3s;
+  }
+  
+  .letter.active {
+    opacity: 1; /* Opacity for active letter */
+  }
+  
+  .displayText, .subtitle, .description {
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .hidden {
+    opacity: 0;
+  }
+  
+  .visible {
+    opacity: 1;
+  }
+  
+  .displayText {
+    font-size: 36px;
+    margin: 10px 0;
+    color: var(--color-primary);
+    z-index: 1;
+    position: relative;
+    font-weight: 600;
+  }
+  
+  .subtitle {
+    font-size: 28px;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+  }
+  
+  @media (max-width:767px) {
+    .letter{
+      height: 30px; /* Adjust the size as needed */
+    }
+    .header {
+      padding: 20px 45px;
+      }
+  }

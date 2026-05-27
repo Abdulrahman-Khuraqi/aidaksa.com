@@ -1,0 +1,60 @@
+/* ContentPromotion.module.css */
+.promotionContainer {
+    text-align: start;
+    margin-bottom: 20px;
+}
+
+.promotionContainer h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.promotionContainer p {
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.promotionContainer h3 {
+    color: #444;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.promotionContainer ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+    list-style-type: none;
+
+}
+.whycontainer{
+    padding-top:50px ;
+}
+.whyWorkWithUsItem{
+    color: #555;
+    font-size: 18px;
+    margin-bottom: 8px;
+    padding-inline-end: 15px;
+    position: relative;
+    background-color: var(--primary-background);
+    list-style-type: none;
+    padding:10px 20px;
+    margin:10px 0;
+    border-radius:15px;
+}
+
+.heroLink {
+    text-decoration: underline;
+    font-size: 24px;
+}
+
+.heroLink:hover {
+    text-decoration: underline;
+}
+
+.arrow {
+    margin-inline-end: 5px;
+    font-size: 24px;
+}

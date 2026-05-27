@@ -1,0 +1,41 @@
+.container{
+    background-color: var(--color-background);
+    border-radius: var(--br-container);
+    padding: 50px 50px;
+    
+}
+.title{
+    font-size: var(--fs-title-blog);
+    margin-bottom: 20px;
+}
+
+.date{
+    background-color:white;
+    border-radius: 100px;
+    padding:2px 15px;
+    height: 29px;
+    margin-inline-end: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.BlogCard__image_container {
+    max-width: 100%;
+    max-height: 300px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+    margin:10px 0 20px;
+}
+
+.BlogCard__image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+@media (max-width:768px) {
+    .container{
+        padding: 50px 20px;
+    }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 0,
+    "logourl": "1.svg",
+    "description": "The Aida team really transformed our project in a way we never imagined! Our sales doubled 10 times in 10 months. Truly, thank you.",
+    "name": "Muscle Maker",
+    "position": "Store Manager",
+    "width": "43",
+    "height": "50"
+  },
+
+  {
+    "id": 2,
+    "logourl": "swart-alst.webp",
+    "description": "I have dealt with many marketing companies, but there is always an important factor missing, which is proper media buying. This made a huge difference and improved our content tremendously. Thank you Aida team, and thank you Mr. Mohammed Aljudi, the best media buyer I have met.",
+    "name": "Swart Alst",
+    "position": "Store Manager",
+    "width": "512",
+    "height": "468"
+  }
+]

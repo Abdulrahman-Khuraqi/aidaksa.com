@@ -1,0 +1,27 @@
+.container{
+    padding:175px 0;
+    background-color:var(--color-background-2);
+    border-radius: var(--br-basic);
+    background-image: url(../../../public/images/bg/hero-background.svg);
+    background-size: cover;
+    background-position: center;
+    margin-bottom:125px;
+    margin-top: 125px;
+    background-color:var(--color-background);
+    border-radius: var(--br-container);
+    --bs-breadcrumb-item-active-color: #6c757d;
+    --bs-breadcrumb-divider-color: #010910;
+
+}
+.title{
+    margin-bottom: 20px;
+    font-size: var(--fs-section-title);
+}
+
+@media  (max-width:767px) {
+    .container{
+        margin-bottom: 75px;
+        margin-top: 50px;
+    }
+  
+}

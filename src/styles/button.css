@@ -1,0 +1,156 @@
+/* ====================== [  Start Button Style ] ====================== */
+/*===== All Button Style =====*/
+@keyframes moveArrow {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-10px); /* حرك السهم لليمين بمقدار 10 بكسل */
+  }
+  100% {
+    transform: translateX(0); /* أعد السهم لمكانه */
+  }
+}
+.main-btn {
+  display: inline-block;
+  font-weight: 500;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid var(--color-secondary);
+  padding: 0 30px;
+  font-size: 15px;
+  line-height: 45px;
+  border-radius: 100px;
+  color: var(--color-secondary);
+  cursor: pointer;
+  font-family: var(--font-ar);
+  z-index: 5;
+  -webkit-transition: all 0.4s ease-out 0s;
+  -moz-transition: all 0.4s ease-out 0s;
+  -ms-transition: all 0.4s ease-out 0s;
+  -o-transition: all 0.4s ease-out 0s;
+  transition: all 0.4s ease-out 0s;
+  background-color: transparent;
+}
+
+.main-btn-white {
+  border: 1px solid white;
+  color: white;
+}
+
+.header_btn-two {
+  border: 1px solid #000;
+  color: #000;
+}
+
+.main-btn:hover {
+  background-color: var(--primary-color);
+  color: white;
+  border-color: white;
+}
+
+.main-btn.main-btn-2 {
+  background-color: #fff;
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.main-btn.main-btn-2:hover {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: #fff;
+}
+
+.main-btn.main-btn-3 {
+  background-color: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+
+.main-btn.main-btn-3:hover {
+  background-color: var(--color-primary-dark);
+  border-color: var(--color-primary-dark);
+  color: #fff;
+}
+
+.btn-white{
+  background: var(--color-white);
+  color:var(--color-primary);
+  border:1px solid var(--color-white);
+}
+.header_btn-two {
+  border: 1px solid #000;
+  color: #000;
+}
+.main-btn:hover {
+  background-color: var(--primary-color);
+  color: white;
+}
+.btn-white:hover {
+  color:var(--color-white);
+  border:1px solid var(--color-white);
+}
+
+.btn-submit {
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
+  border: 0;
+  font-weight: 800;
+}
+.btn-submit:hover {
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 13px rgba(0, 0, 0, 0.1);
+}
+.primary-color {
+  background-color: var(--primary-color) !important;
+  color: white !important;
+  border-color: transparent !important;
+}
+.main-btn.primary-color:hover {
+  background-color: var(--color-primary-dark) !important;
+}
+.primary-color span {
+  font-weight: 700;
+}
+
+.btn-line {
+  background: transparent;
+  padding: 10px 35px;
+  cursor: pointer;
+  border-radius: 100px;
+  color: var(--primary-background);
+  border: 1px solid var(--primary-background);
+  font-size: 18px;
+}
+
+.btn-line:hover {
+  color: var(--primary-color);
+  background-color: var(--primary-background);
+}
+
+.btn-hero{
+  background:var(--color-background);
+  border: 2px solid #ace4d2;
+  color:var(--color-primary);
+  font-weight: 800;
+  font-size: var(--fs-18);
+}
+
+.arrow {
+  display: inline-block;
+  transition: transform 0.5s ease-in-out;
+}
+
+.btn-hero:hover .arrow {
+  animation: moveArrow 1s ease-in-out infinite;
+
+}
+
+/* ====================== [ End Button Style ] ====================== */

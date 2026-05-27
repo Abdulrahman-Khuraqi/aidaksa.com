@@ -1,0 +1,51 @@
+.suggestionContainer{
+    background-color: var(--color-background);
+    border-radius: var(--br-container);
+    padding:20px;
+    margin-bottom: 15px;
+    position: relative;
+}
+@keyframes slidein {
+    from {
+      transform: translateX(0px);
+  
+    }
+  
+    to {
+      transform: translateX(-5px);
+    }
+  }
+  
+  .button__more {
+    margin-top: auto;
+    transition: all 0.5s ease;
+  }
+  .suggestionContainer:hover .button__more span {
+    animation-duration: 0.5s;
+    animation-name: slidein;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-play-state: running;
+  }
+.subtitle{
+    background:var(--color-primary);
+    color:white;
+    padding:5px 15px;
+    border-radius: 100px;
+    margin-bottom: 15px;
+}
+.postimage{
+    border-radius: 100%;
+}
+.title{
+    font-size: var(--fs-16);
+    font-weight: 500;
+    color:var(--color-secondary)
+}
+@media (max-width:768px) {
+    .subtitle{
+        margin-top: 40px;
+    }
+}

@@ -1,0 +1,75 @@
+.clients {
+  border-radius: var(--br-container);
+  background-color: var(--color-primary);
+  padding: var(--p-container);
+  text-align: center;
+}
+
+.titleBox {
+  font-size: var(--fs-section-title);
+  position: relative;
+  max-width: 450px;
+  margin: 200px auto 20px auto;
+  text-align: center;
+}
+.titleconatiner{
+  font-size: var(--fs-section-title);
+  position: relative;
+  text-align: center;
+}
+.title {
+  font-size: var(--fs-section-title);
+  color: var(--color-secondary);
+  position: relative;
+  z-index: 1;
+  margin-bottom: 50px;
+  display: inline;
+  padding: 0 20px;
+}
+.titlewhite{
+  font-size: var(--fs-section-title);
+  color: var(--color-white);
+  position: relative;
+  z-index: 1;
+  margin-bottom: 50px;
+}
+.titleBackground {
+  position: absolute;
+  border-radius: var(--br-sm);
+  background-color: var(--color-background);
+  width: 27rem;
+  height: 27px;
+  bottom: 0;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -2;
+}
+.titleBackgroundLight{
+  position: absolute;
+  border-radius: var(--br-sm);
+  background-color: var(--color-primary-dark);
+  width: 25rem;
+  height: 27px;
+  bottom: 0;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -2;
+}
+@media (max-width:768px) {
+  .titleBackgroundLight {
+    width: 9em;
+  }
+  .titleBackground{
+    width: 9em;
+  }
+}
+
+.postsContainer{
+  border-radius: var(--br-container);
+  background-color: var(--color-background);
+  padding: var(--p-container-light);
+  text-align: center;
+  margin-top:var(--padding-top-section);
+}

@@ -1,0 +1,32 @@
+{
+  "title": "What Services Do We Offer?",
+  "description": "We offer everything an online store needs to succeed and thrive, from designing the online store to comprehensive marketing services with the highest quality standards. We provide specialized teams to handle every aspect of your business project, from marketing consulting to implementing your strategic plans.",
+  "learnMore": "Learn More",
+  "services": [
+    {
+      "id": 2,
+      "icon": "12",
+      "height": "280",
+      "width": "280",
+      "title": "Advertising Account Management",
+      "descriptionAll": "We provide advertising campaign management service in a unique and different way from any other provider in the Saudi market. We conduct daily monitoring of campaigns on various platforms and launch our campaigns with customized strategies that meet your business needs. We cover Google Ads, Snapchat Ads, Meta Ads, and TikTok Ads to ensure reaching your target audience and achieving the best results.",
+      "descriptionPhone": "We provide advertising campaign management service in a unique and different way from any other provider in the Saudi market. We conduct daily monitoring of campaigns on various platforms and launch our campaigns with customized strategies that meet your business needs. We cover Google Ads, Snapchat Ads, Meta Ads, and TikTok Ads to ensure reaching your target audience and achieving the best results.",
+      "description": "We provide advertising campaign management service in a unique and different way from any other provider in the Saudi market. We conduct daily monitoring of campaigns on various platforms and launch our campaigns with customized strategies that meet your business needs. We cover Google Ads, Snapchat Ads, Meta Ads, and TikTok Ads to ensure reaching your target audience and achieving the best results.",
+      "link": "/media-buying",
+      "pdf": ""
+    },
+
+    {
+      "id": 4,
+      "icon": "10",
+      "height": "280",
+      "width": "280",
+      "title": "Introductory Website Design",
+      "descriptionAll": "We offer complete web design and programming service from scratch using React language, allowing you to customize the site according to your specific needs. We guarantee attractive and innovative websites that achieve an excellent user experience and improve site functionality efficiently, reflecting your brand identity and enhancing your digital presence.",
+      "descriptionPhone": "We offer complete web design and programming service from scratch using React language, allowing you to customize the site according to your specific needs. We guarantee attractive and innovative websites that achieve an excellent user experience and improve site functionality efficiently, reflecting your brand identity and enhancing your digital presence.",
+      "description": "We offer complete web design and programming service from scratch using React language, allowing you to customize the site according to your specific needs. We guarantee attractive and innovative websites that achieve an excellent user experience and improve site functionality efficiently, reflecting your brand identity and enhancing your digital presence.",
+      "link": "",
+      "pdf": ""
+    }
+  ]
+}

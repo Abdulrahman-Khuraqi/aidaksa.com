@@ -1,0 +1,16 @@
+{
+    "StartWithUsToday": "Start with us today",
+    "YourName": "What's your name?",
+    "JobTitle": "What is your job title?",
+    "ContactNumber": "Contact Number",
+    "EnterNumber": "Please enter the number",
+    "EnterValidNumber": "Please enter a valid number",
+    "StoreURL": "Please attach the store URL",
+    "EnterURL": "Store URL",
+    "Submit": "Send Message",
+    "RequestSent": "Request sent, we will contact you soon",
+    "RequestError": "Error in sending request",
+    "ContactUsDirectly": "You can contact us directly from here",
+    "EnterName": "Please enter the name"
+  }
+  

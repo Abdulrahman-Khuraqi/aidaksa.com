@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "icon": "pe-7s-folder",
+    "txt": "completed projects",
+    "value": "350"
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "txt": "domains covered",
+    "value": "35"
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-timer",
+    "txt": "years of experience",
+    "value": "10"
+  }
+]

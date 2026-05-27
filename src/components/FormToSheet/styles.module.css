@@ -1,0 +1,121 @@
+.required {
+  padding: var(--padding-form-container);
+  border-radius: var(--br-container);
+  text-align: start;
+  background-color: var(--primary-background);
+  font-size: var(--font-size-49xl);
+  color: #333;
+
+}
+.required__titleBox {
+  font-size: var(--fs-section-title);
+  color: var(--color-mediumaquamarine-100);
+  position: relative;
+  margin-bottom: 40px;
+}
+.required__title {
+  text-align: start;
+}
+.errorText{
+  color:red;
+  font-size: 1rem;
+}
+.p{
+  font-size: 15px;
+  line-height: 1.8;
+}
+@media (max-width:767px) {
+  .required__titleBox {
+    margin-bottom: 20px;
+  }
+}
+.required__title {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: start;
+}
+
+
+
+.platformContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 10px;
+}
+
+.platformItem {
+  display: flex;
+  gap:.5rem;
+  align-items: center;
+  background: white;
+  padding:8px 15px;
+  border-radius: 100px;
+}
+
+.checkbox {
+  cursor: pointer;
+}
+
+.platformLabel {
+  font-size: 16px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.required__title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+.sectionTitle {
+  font-size: 16px;
+  color:var(--color-primary);
+  padding-bottom: 8px;
+
+}
+.sectionTitleBorder {
+  font-size: 16px;
+  color:var(--color-primary);
+  border-top: 1px solid #ebebeb;
+  padding-bottom: 8px;
+  padding-top: 35px;
+
+}
+
+.input-group label {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.platformContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.platformItem {
+  margin-inline-end: 10px;
+}
+
+.btn-box {
+  text-align: center;
+  margin-top: 20px;
+}
+.radioContainer{
+  display: flex;
+}
+.radioOption input,
+.radioOption label{
+  cursor: pointer;
+
+}
+.radioOption{
+  background: white;
+  display: flex;
+  cursor: pointer;
+  gap:.5rem;
+  border-radius: 100px;
+  padding:8px 15px;
+  margin-inline-end: 10px;
+
+}

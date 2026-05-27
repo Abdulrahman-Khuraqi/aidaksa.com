@@ -1,0 +1,30 @@
+.image {
+    height: auto;
+}
+@media (max-width:991px){
+.aboutmore__image--top{
+    margin-top:0;
+    margin-bottom: 30px;
+}
+.aboutmore__image--bottom{
+    margin-top:30px;
+    margin-bottom: 0;
+}
+}
+@media only screen and (max-width: 1200px) {
+    .image {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .sm-none {
+        display: none;
+    }
+    
+}
+@media (max-width:567px){
+    .aboutmore__image--top{
+        width:100%;
+        height:auto;
+    }
+}

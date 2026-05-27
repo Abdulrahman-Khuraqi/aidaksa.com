@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "smallTitle": "About us",
+    "title": {
+        "first": " Fekrah developer",
+        "second": "is a consultancy company "
+    },
+    "content": " A Saudi specialized company, we provide the best solutions and services to our business customers and provide outstanding services in various private and government organizations across the Kingdom of Saudi Arabia.",
+    "features": [{
+            "id": 1,
+            "icon": "info",
+            "name": {
+                "first": "Evaluate ",
+                "second": "the information"
+            },
+            "wowDelay": ".3s"
+        },
+        {
+            "id": 2,
+            "icon": "medal",
+            "name": {
+                "first": "elite ",
+                "second": "consultants"
+            },
+            "wowDelay": ".5s"
+        },
+        {
+            "id": 3,
+            "icon": "headphones",
+            "name": {
+                "first": "Outstanding ",
+                "second": "customer service"
+            },
+            "wowDelay": ".8s"
+        }
+    ]
+}

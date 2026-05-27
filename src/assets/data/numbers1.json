@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "icon": "pe-7s-folder",
+    "txt": "مشاريع اكتملت",
+    "value": "350"
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "txt": "المجالات المغطاة",
+    "value": "35"
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-timer",
+    "txt": "سنوات من الخبرة",
+    "value": "10"
+  }
+]

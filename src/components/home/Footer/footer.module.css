@@ -1,0 +1,42 @@
+.copyright2021 {
+  margin-top: 10px;
+  font-weight: 300;
+  text-align: center;
+  font-family: var(--font-basic);
+
+}
+
+.footer__icon {
+  width: 20px;
+  height: 20px;
+  margin: 0 10px;
+}
+
+.footer {
+  background-color: var(--color-white);
+  height: 60px;
+  text-align: start;
+  font-size: var(--font-size-base);
+  color: var(--color-slategray);
+  display: flex;
+  align-items: center;
+  font-family: var(--font-basic);
+
+}
+@media (max-width: 768px) {
+  .footer__icon {
+    margin: 4px 8px;
+    width: 18px;
+    height: 18px;
+  }
+
+  .footer {
+    text-align: center;
+    height: 90px;
+  }
+
+  .footer>div>div {
+    flex-direction: column-reverse;
+
+  }
+}

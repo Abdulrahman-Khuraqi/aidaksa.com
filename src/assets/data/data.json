@@ -1,0 +1,659 @@
+[{
+        "title": "Standard Unit",
+        "category": "Dental Units",
+        "brand": "Suntem",
+        "images": ["standard-unit-1", "standard-unit-2", "standard-unit-3"],
+        "technicalInfo": [
+            ["LED-2 light, sensor, Resin anti-curing mode"],
+            ["Luxury patient chair with safety system"],
+            ["Chair system with 3 memories"],
+            ["Built in Light cure, Built in Scaler "],
+            ["Instrument tray with air break"],
+            ["3 way syringe (cold/hot water) x2 sets "],
+            ["Rotary hand piece holder x 1 set"],
+            ["Double articulate, Foldable headrest"],
+            ["Self-regulative cushion, backrest, PU cushion"],
+            ["Detachable, Rotatable glass spittoon "],
+            ["Spittoon Cabnit can move laterally 90"],
+            ["Auto spittoon flush & cup filler"],
+            ["Saliva ejector with high & low suction"],
+            ["4 way foot controller, Round foot switch"],
+            ["Doctor & assistant stool, Assistant system"],
+            ["Built in service box with Main switch"],
+            ["External water tank"],
+            ["24V noiseless DC motor chair"]
+        ]
+    },
+    {
+        "title": "VIP Unit",
+        "category": "Dental Units",
+        "brand": "Suntem",
+        "images": ["vip-unit-1", "vip-unit-2", "vip-unit-3"],
+        "technicalInfo": [
+            ["All Standard Options", " "],
+            ["Extra Options:", " "],
+            [" ", "LED-9 light with sensor"],
+            [" ", "Adjustable color temp./ illuminance"],
+            [" ", "Inter-lock control system with 9 memories"],
+            [" ", "Instrument tray air break (Down Mounted)"],
+            [" ", "Control panal with LED film viewer "],
+            [" ", "Available in two colors"],
+            [" ", "Main switch for water/air/power"]
+        ]
+    },
+    {
+        "title": "Luxury Unit B",
+        "category": "Dental Units##",
+        "brand": "Suntem",
+        "images": ["luxury-unit-b-1"],
+        "technicalInfo": [
+            ["All Standard Options"],
+            ["Extra Options:", ""],
+            ["", "LED-10 light with sensor"],
+            ["", "Adjustable color temp./ illuminance"],
+            ["", "9 programs control system"],
+            ["", "Sewed eco-leather cushion"],
+            ["", "Instrument tray (interlock)"],
+            ["", "Pure water system"],
+            ["", "Control panal with LED film viewer "],
+            ["", "Detachable, Rotatable Ceramic spittoon"],
+            ["", "Main switch for water/air/power"]
+        ]
+    },
+    {
+        "title": "Children Unit",
+        "category": "Dental Units##",
+        "brand": "Suntem",
+        "images": ["307-1", "307-1"],
+        "technicalInfo": [
+            ["All Standard Options"],
+            ["Extra Options:", ""],
+            ["", "LED-9 light with sensor"],
+            ["", "Adjustable color temp./ illuminance"],
+            ["", "9 programs control system"],
+            ["", "Mobile Instrument Trolley (Interlock) "],
+            ["", "High suction & saliva ejector system"],
+            ["", "(aluminum alloy handle/detachable, disinfection)"],
+            ["", "Apple / Mobile phone fixed bracket device"],
+            ["", "Sewed eco-leather cushion"],
+            ["", "Control panal with LED film viewer"],
+            ["", "USB Line connector"],
+            ["", "Detachable, Rotatable Ceramic spittoon"],
+            ["", "External service box with main switch"]
+        ]
+    },
+    {
+        "title": "Implant Unit##",
+        "category": "Dental Units##",
+        "brand": "Suntem",
+        "images": ["307-1", "307-1"],
+        "technicalInfo": [
+            ["All Standard Options"],
+            ["Extra Options:", ""],
+            ["", "LED-10 light with sensor"],
+            ["", "Adjustable color temp./ illuminance"],
+            ["", "9 programs control system"],
+            ["", "Sewed eco-leather cushion"],
+            ["", "Central suction system with selection valve"],
+            ["", "Mobile instrument trolly"],
+            ["", "with stainless steel tray"],
+            ["", "Assistant system with stainless steel tray"],
+            ["", "Multimedia endoscope image system"],
+            ["", "Detachable, Rotatable Ceramic spittoon"],
+            ["", "Main switch for water/air/power"]
+        ]
+    },
+    {
+        "title": "Oilless Compressors",
+        "category": "Dental Equipments",
+        "brand": "Antar Technology",
+        "images": ["oilless-compressors-2"],
+        "technicalInfo": [
+            ["AETHER 30"],
+            ["", "For 1 Dental Units"],
+            ["", " Power:550 w"],
+            ["", "Capacity: 32 L"],
+            ["", "Air Flow:60 L/min"],
+            ["AETHER 38"],
+            ["", "For 2 Dental Units "],
+            ["", "Power: 840 w"],
+            ["", "Capacity: 38 L"],
+            ["", "Air Flow: 85 L/min"]
+        ]
+    },
+    {
+        "title": "Dental Suctions",
+        "category": "Dental Equipments",
+        "brand": "Antar Technology",
+        "images": ["dental-suctions-1"],
+        "technicalInfo": [
+            ["AEOLUS 750 L"],
+            ["", "Connect to 2 dental unit (simultaneous use 60 %)"],
+            ["", "Connect to 1 dental unit (simultaneous use 100%) "],
+            ["", "Power: 800-850 W"],
+            ["", "Air Flow : 500 L/min"],
+            ["AEOLUS 1100 L"],
+            ["", "Connect to 4 dental unit (simultaneous use 60 %)"],
+            ["", "Connect to 2 dental unit (simultaneous use 100%)"],
+            ["", "Power: 1200-1400 W"],
+            ["", "Air Flow: 800 L/min"]
+        ]
+    }, {
+        "title": "Intraoral camera",
+        "category": "Dental Equipments",
+        "brand": "Antar Technology",
+        "images": ["intraoral-camera-1"],
+        "technicalInfo": [
+            ["HD COMS Image Sensor "],
+            ["Short Focal Length Camera"],
+            ["Auxillary LED Light Source "],
+            ["HD Monitor"]
+        ]
+    },
+    {
+        "title": "STERILINE 9.5 B - Class B Autoclave",
+        "category": "Autoclaves",
+        "brand": "NSK",
+        "images": ["steriline-9.5-b-class-b-autoclave"],
+        "technicalInfo": [
+            ["Computerized control system"],
+            ["Fully automatic sterilization cycles"],
+            [" Minimize malfunctions & errors"],
+            ["The data for each sterilization cycle can be traced with memory card on a PC"],
+            ["Nickelplated copper chamber "]
+        ]
+    }, {
+        "title": "Capacity 18-litre with trays",
+        "category": "Autoclaves",
+        "brand": "NSK",
+        "images": ["capacity-18-litre-with-trays"],
+        "technicalInfo": [
+            ["Perfect instrument drying & precise temp. Control"],
+            ["Sterilize even the most delicate instrument, turbines, handpieces in total safety"],
+            ["Powerful vacuum pump for total expulsion of air .Sterilize any type of material including the inner surfaces of handpieces"],
+            ["Elimination of thermal shock to sterilize even most delicate instruments in total safety"]
+        ]
+    },
+    {
+        "title": "LED Hanpiece | CX207-F",
+        "category": "High Speed Handpieces",
+        "brand": "COXO",
+        "images": ["cx207-f"],
+        "technicalInfo": [
+            ["Soft Push button"],
+            ["Self Luminous/Professional LED 10000 hrs"],
+            ["3 air/3 water spray"],
+            ["Long life, low noise, stable, Wear-resisting"],
+            ["Better Hand feeling/Graceful body/Balanced Impeller"],
+            ["Head and cartridge with anti-retraction structure"],
+            ["Just a little air can generate sufficient power"]
+        ]
+    },
+    {
+        "title": "3 Way Spray Handpiece | CX207-W",
+        "category": "High Speed Handpieces",
+        "brand": "COXO",
+        "images": ["cx207-w"],
+        "technicalInfo": [
+            ["Soft Push button"],
+            ["3 air/ 3 water spray"],
+            ["Long life, low noise, stable, Wear-resisting"],
+            ["Better Hand feeling / Graceful body/Balanced Impeller"],
+            ["Head and cartridge with anti-dust structure"]
+        ]
+    },
+    {
+        "title": "1 Way Spray Handpiece | CX207-B",
+        "category": "High Speed Handpieces",
+        "brand": "COXO",
+        "images": ["cx207-b"],
+        "technicalInfo": [
+            ["Soft Push button"],
+            ["4 air/ 1 water spray"],
+            ["Long life, low noise, stable, Wear-resisting"],
+            ["XC"],
+            ["Better Hand feeling/Graceful body/Balanced Impeller"],
+            ["Head and cartridge with anti-dust structure"]
+        ]
+    },
+    {
+        "title": "Color Handpiece | CX207-B",
+        "category": "High Speed Handpieces",
+        "brand": "COXO",
+        "images": ["cx207-b-2"],
+        "technicalInfo": [
+            ["Soft Push button"],
+            ["3 air/ 1 water spray"],
+            ["Long life, low noise, stable, Wear-resisting"],
+            ["Colorful body: Red, Yellow, Purple, Blue, Black"],
+            ["Light body/Easy control"],
+            ["Ceramic bearing cartilage"]
+        ]
+    },
+    {
+        "title": "AIR MOTOR",
+        "category": "Low Speed Handpieces",
+        "brand": "COXO",
+        "images": ["cx235m-3b", "cx235m-3f"],
+        "technicalInfo": [
+            ["External Water CX235 M-3F"],
+            ["Hole type:", "4 holes or 2 holes"],
+            ["Rotation speed:", "20,000 rpm"],
+            ["Inner Channel CX235 M-3B"]
+        ]
+    },
+    {
+        "title": "STRAIGHT",
+        "category": "Low Speed Handpieces",
+        "brand": "COXO",
+        "images": ["cx235s-2a", "cx235s-2b"],
+        "technicalInfo": [
+            ["External Water/ CX235 S-2A"],
+            ["1:1 direct drive"],
+            ["Bur:", "2.35 mm"],
+            ["R speed:", "40,000 rpm"],
+            ["Inner Channel/ CX235 S-2B"]
+        ]
+    },
+    {
+        "title": "C-CLEAR-2 Ultimate edition",
+        "category": "Dental Microscopes",
+        "brand": "COXO",
+        "images": ["c-clear-2"],
+        "technicalInfo": [
+            ["Optical system:", "Apochromatic optical system"],
+            ["Zoom system:", "5-speed zoom host"],
+            ["", "5-level magnification 3.2x, 5x. 8x. 12.8x, 20x "],
+            ["Eyepiece lens:", "12.5X wide angle eyepiece"],
+            ["", "Magnetic adsorption insertion"],
+            ["", "Diopter correction adjustment range +6 ~ -6 D"],
+            ["", "Adjustable height eyecup, suitable for doctor with glasses"],
+            ["Binocular tube:", "0-180° tilt angle adjustable binocular tube, f=170mm"],
+            ["", "Interpupillary distance adjustment range: 55-75 mm"],
+            ["Objective lens:", "Large zoom objective lens, working distance:200-300mm "],
+            ["Illumination system:", "LED bulb, adjustable brightness"],
+            ["", "Center illumination is more than 30000-50000 lux"],
+            ["", "Display index > 90%"],
+            ["Handle:", "Standard bilateral handle. 360° adjustable"],
+            ["Digital Imaging:", "Optical splitter"],
+            ["", "Digital camera tube"],
+            ["", "Canon SLR digital camera"],
+            ["", "Wireless camera system"],
+            ["", "HD display"],
+            ["", "HD data cable (built-in)"],
+            ["Binocular tube:", "Luxury display stand"],
+            ["", "High quality imported mute medical mobile base casters"],
+            ["", "4 wheels can be locked"],
+            ["", "Luxury floor stand"],
+            ["", "Integrated design, built-in cable"],
+            ["", "Base size: 800*800 mm"]
+
+        ]
+    },
+    {
+        "title": "C-CLEAR-1 Standard edition",
+        "category": "Dental Microscopes",
+        "brand": "COXO",
+        "images": ["c-clear-1"],
+        "technicalInfo": [
+            ["Optical system:", "Apochromatic optical system"],
+            ["Zoom system:", "5-speed zoom host"],
+            ["", "5-level magnification 3.2x, 5x. 8x. 12.8x, 20x "],
+            ["Eyepiece lens:", "12.5X wide angle eyepiece"],
+            ["", "Magnetic adsorption insertion"],
+            ["", "Diopter correction adjustment range +6 ~ -6 D"],
+            ["", "Adjustable height eyecup, suitable for doctor with glasses"],
+            ["Binocular tube:", "0-180° tilt angle adjustable binocular tube, f=170mm"],
+            ["", "Interpupillary distance adjustment range: 55-75 mm"],
+            ["Objective lens:", "Large zoom objective lens, working distance:200-300mm (Optional)"],
+            ["", "0-15mm fine turning large objective lens, f=250mm"],
+            ["Illumination system:", "LED bulb, adjustable brightness"],
+            ["", "Center illumination is more than 30000-50000 lux"],
+            ["", "Display index > 90%"],
+            ["Handle:", "Standard bilateral handle. 360° adjustable"],
+            ["Digital Imaging (Optional):", "Optical splitter"],
+            ["", "Digital camera tube"],
+            ["", "Canon SLR digital camera"],
+            ["", "Wireless camera system"],
+            ["", "HD display"],
+            ["", "HD data cable (built-in)"],
+            ["Binocular tube:", "Luxury display stand (Optional)"],
+            ["", "High quality imported mute medical mobile base casters"],
+            ["", "4 wheels can be locked"],
+            ["", "Luxury floor stand"],
+            ["", "Integrated design, built-in cable"],
+            ["", "Base size: 800*800 mm"]
+
+        ]
+    }, {
+        "title": "C-SMART-I PILOT Endo Motor with Apex Locator",
+        "category": "Endo Motors",
+        "brand": "COXO",
+        "images": ["c-smart-i-pilot"],
+        "technicalInfo": [
+            ["Bulit-in LED"],
+            ["Detachable Contra angle"],
+            [" Bulit in canal measurement"],
+            ["Built-in mainstream system"],
+            ["10m effective Bluetooth"],
+            ["300° Rotation angle"],
+            ["Apex test light"],
+            ["150-1000 rpm Speed"],
+            ["0.6-3.9N.cm Torque Mute Motor"],
+            ["Wireless charging of handle Measurement & Preparation, same time"],
+            ["Apex locator bulit in the handle"],
+            ["Touch Screen Large 5 inch Colorful"],
+            ["Powerful ,Mute, Longlife, motor"],
+            ["Automatic, calibration"],
+            [" Automatic, reverse"],
+            ["Three working mood"],
+            ["M1 Apex locator"],
+            ["M2 Endo motor"],
+            ["M3 Dual mode"]
+        ]
+    }, {
+        "title": "C-SMART-I PRO with Apex Locator",
+        "category": "Endo Motors",
+        "brand": "COXO",
+        "images": ["c-smart-i-pro"],
+        "technicalInfo": [
+            ["Continuous & reciprocation motion Simultaneously Measurement & Preparation"],
+            ["16:1 Push Button b360° Adjustable Detachable design  Smaller head 8mm"],
+            ["150-600rpm Speed"],
+            ["0.6-5.2N.cm Torque Mute Motor"],
+            ["Right hand or left hande use "],
+            ["3 working mood"],
+            ["M1 Apex locator"],
+            ["M2 Endo motor"],
+            ["M3 Dual mode"],
+            ["Built-in"],
+            ["Mainstream system"],
+            ["6 mainstream brands"],
+            ["7 memory program setting Multi file system"],
+            ["Big color LCD screen"],
+            ["Touche button design "],
+            ["Large  High capacity battery"],
+            ["Auto calibration"],
+            ["Auto self-test"],
+            ["LED Light"],
+            ["Touch button design"],
+            ["Forward 30°"],
+            ["Reverse 150°"]
+        ]
+    }, {
+        "title": "C-SMART-MINI Wireless",
+        "category": "Endo Motors",
+        "brand": "COXO",
+        "images": ["c-smart-mini-wireless"],
+        "technicalInfo": [
+            ["LED Screen"],
+            ["Switchable display for Rt hand & Lt hand "],
+            ["3 Buttons control "],
+            ["Wireless handle "],
+            ["Non contact charging "],
+            ["Automatic shutdown "],
+            ["Contra angle 1: 1 Push button, Removable Sterilization "],
+            ["Forward 30° "],
+            ["Reverse 150° "],
+            ["5 Operating procedures For all mainistream NITI system "],
+            ["3.9 N.cm MAX torque."],
+            ["625 rpm MAX Speed "],
+            ["Auto calibration "],
+            ["Auto Reverse "]
+        ]
+    }, {
+        "title": "C-ROOT I (VI) with Pulp Tester",
+        "category": "Apex Locator",
+        "brand": "COXO",
+        "images": ["c-root-i-with-pulp-tester"],
+        "technicalInfo": [
+            ["3 hours Charge time"],
+            ["Adjustable angle"],
+            ["Color LCD screen"],
+            ["Working modes"],
+            ["Apex locator"],
+            ["Pulp Tester"],
+            ["Adjustable narrow zone"],
+            ["Vital measurement"],
+            ["Apex finder"],
+            ["Self test"],
+            ["Exact accurate"]
+        ]
+    }, {
+        "title": "SC-PRO Controlled memory files",
+        "category": "Rotary Endofiles",
+        "brand": "COXO | SOCO",
+        "images": ["sc-pro"],
+        "technicalInfo": [
+            ["Anti broken"],
+            ["Good flexibility"],
+            ["Anti fatigue"],
+            ["Super cutting force"],
+            ["More responsive to canal morphology"],
+            ["Model 17 419"],
+            ["New import CM NiTi material"],
+            ["Super-hard alloy coating"]
+        ]
+    }, {
+        "title": "C-FILL mini G type Back Fill",
+        "category": "Obturation System",
+        "brand": "COXO",
+        "images": ["c-file-mini-g"],
+        "technicalInfo": [
+            ["150 °C standby"],
+            ["15 S to 200°C"],
+            ["2s150 to 200°C"],
+            ["4 Temprature Settings 150, 180, 200, 230° C"],
+            ["NO wait"],
+            ["Rotated  head"],
+            ["Double-side display "],
+            ["Double-side control"],
+            ["Energy-saving Temperature control Protection system Automatic turn off"],
+            ["Back Fill"],
+            ["Comfortable grip Perfect Balance"],
+            ["Nichest protection"]
+        ]
+    }, {
+        "title": "C-FILL mini P type Down Pack",
+        "category": "Obturation System",
+        "brand": "COXO",
+        "images": ["c-file-mini-p"],
+        "technicalInfo": [
+            ["4S to 200°C"],
+            ["0.5s tip to 200°C"],
+            ["Temprature Settings 150, 180, 200, 230° C"],
+            ["NO wait"],
+            ["Placed at different angles"],
+            ["Double-side display"],
+            ["Double-side control"],
+            ["4 Models of tip 0.02#45, 0.04 #50  ,.06#55, 0.08#55"],
+            ["Temperature control Protection system Automatic turn off"],
+            ["Comfortable grip Perfect Balance"],
+            ["Smaller tip can press effective filling position 3 mm from the Apex."],
+            ["Down Pack"]
+        ]
+    }, {
+        "title": "Ultra Smart Endo Ultrasonic Activator",
+        "category": "Ultrasonic & Gutta Cuts",
+        "brand": "COXO",
+        "images": ["ultra-smart-endo-ultrasonic-activator"],
+        "technicalInfo": [
+            ["More effective"],
+            ["According to load"],
+            ["Large Sustainable standby 5 hours"],
+            ["20 Sec Auto stop"],
+            ["LED More Visibility"],
+            ["One-piece Titanimum alloy Mini 25/02 tip Smaller & safer"],
+            ["Comfortable hand "],
+            ["One-key control power en work/stop"],
+            ["low power prompt"],
+            ["TIP problem prompt"],
+            ["AutoclavableWorking tips & protective covers Force-limiting wrench: Safer & more convenient"]
+        ]
+    }, {
+        "title": "C-Blade Gutta Cuts",
+        "category": "Ultrasonic & Gutta Cuts",
+        "brand": "COXO",
+        "images": ["ultrasonic-gutta-cuts"],
+        "technicalInfo": [
+            ["160°C Working T"],
+            ["2s heating time "],
+            ["Fever needle sterilized/repeated use"],
+            ["Large 100 times use"],
+            ["Single button sperate,heat"],
+            ["Delicate handle Very comfortable"],
+            ["Wireless charging technology Non-contact rechange design Double unit rechange is available"]
+        ]
+    }, {
+        "title": "C-PUMA master Electrical & Endo motor",
+        "category": "Electrical Motor",
+        "brand": "COXO",
+        "images": ["c-puma-master-electrical-endo-motor"],
+        "technicalInfo": [
+            ["40,000rpm Speed"],
+            ["3.0 N.cm torque"],
+            ["All touch LCD screen 5 inch screen, 800*480px"],
+            ["250-1200rpm Speed"],
+            ["0.6-5.1 N.cm torque"],
+            ["1:5 Contra angle Powerful adjustable LED Internal waterway spray Build-in 7 memory programs Handle with air cooling design"],
+            ["Mini head 6:1 contra angle 30+ file system 200+ file parameters 7 mainstream brands Auto & manual reverse"],
+            ["Small, light, autoclavable Costumized starting air pressure Pneumatic / manual start mode free to switch"],
+            ["Options"]
+        ]
+    }, {
+        "title": "NANO Curing light 3 x 1 Light curing, Caries detection, Light metering",
+        "category": "LED Curing Light",
+        "brand": "COXO",
+        "images": ["nano-curing-light"],
+        "technicalInfo": [
+            ["2X1 Control key Indicator light"],
+            ["NEW"],
+            ["Full charge can work 200 times/105"],
+            ["Two batteries as standard"],
+            ["Bulit-in high sensitive LED metering system"],
+            ["360° Rotatable"],
+            ["Nano"],
+            ["Full metal body For longer service life"],
+            ["Wide spectrum 380-520nm"],
+            ["Curing mode One press 10S Doule press 201"],
+            ["Detection mode One press 30s Double press 60s"],
+            ["Light Power 1100mW/cm2"],
+            ["Special lens More even light output"],
+            ["Curing depth 8mm /1sec"],
+            ["10mm curing range"],
+            ["13.5mm Outside diameter"],
+            ["Caries detection"],
+            ["Green Healthy"],
+            ["Red Bacterial dentin"]
+        ]
+    }, {
+        "title": "SUPER DUAL LED Curing Lights",
+        "category": "LED Curing Light",
+        "brand": "COXO",
+        "images": ["super-dual-led-curing-lights"],
+        "technicalInfo": [
+            ["3 Light intensity Light, medium, low"],
+            ["Dual Light-curing & Teeth whitening"],
+            ["3 Operating modes Bright, fade, blink"],
+            ["Curing depth 3mm / 5sec"],
+            ["Curing time 5- 30 sec"],
+            ["LCD display"],
+            ["Li-ion High-capacity battery Battery check function"],
+            ["High power LED. Wavelength: 420-480 nm"],
+            ["WHITN "],
+            ["CURE"],
+            ["Built-in high sensitive LED metering system"]
+        ]
+    }, {
+        "title": "C-BRIGHT Teeth whitening accelerators",
+        "category": "LED Curing Light",
+        "brand": "Others",
+        "images": ["c-bright"],
+        "technicalInfo": [
+            ["Double handles. drug type arm"],
+            ["Multi-angle adjustment"],
+            ["Semi-circular head design"],
+            ["Both arches whitened at the same time"],
+            ["6pcs high power LED"],
+            ["Fan-cooled"],
+            ["10s and 30s as a curing ligh"],
+            ["1-30 minutes as a whitening accelerator"],
+            ["6 light intensities,suitable for more brands whitening gel"],
+            ["LCD screen shows all the information, .Wavelength:420nm-490nm"],
+            ["Light intensity:", "Maximm >6000mWcm2"],
+            [" Adjustable timer:", "10s,30s,1m,2m,5m,8m, 10m,15m,20m,30m"]
+        ]
+    }, {
+        "title": "Amalgamator",
+        "category": "LED Curing Light",
+        "brand": "Others",
+        "images": ["amalgamator"],
+        "technicalInfo": [
+            ["Noise: 65 dB"],
+            ["Mixing frequency:4500 (rpm) "],
+            ["Programmable mixing time: 1-99 sec"],
+            ["It's revolve according to 8 model"],
+            ["Controlled by a microprocessor, precise, controlled, consistent mix"],
+            ["Deactivates when you open the front cover to access the capsule "],
+            ["Easy to use, stable, extremely quiet and easy to clean and maintain"]
+        ]
+    }, {
+        "title": "Portable X-RAY-XR-01 (Taiwan)",
+        "category": "X-Ray Equipments",
+        "brand": "ROLENCE",
+        "images": ["portable-x-ray-xr-01"],
+        "technicalInfo": [
+            ["XR-01", ""],
+            ["", "Lowest risk minimum exposure time with low radiation environment"],
+            ["", "Hand strap for easy operate it by one hand only"],
+            ["", "You can use hands for holding X-ray or the other holder for positioning to controlling the position "],
+            ["", "Maximum rechargeable battery capacity"],
+            ["", "More than 450 exposures from one-time charge"],
+            ["", "Cordless, Transportable"],
+            ["", "High quality guarantee"],
+            ["", "Latest & highest technical specification of Canon d-045"],
+            ["", "Quick exposure by applying a preset value"],
+            ["", "High-grade image compatible with sensors, film, PSP"],
+            ["", "Toshiba tube 0.4 mm focal spot for sharp, high-resolution images"]
+        ]
+    }, {
+        "title": "Fussen dental sensor",
+        "category": "X-Ray Equipments",
+        "brand": "ROLENCE",
+        "images": ["fussen-dental-sensor"],
+        "technicalInfo": [
+            ["Exchangeable cable, Damaging cable can be replaced "],
+            ["Quick connecting for dual driver, Both USB 2.0 & 3.0 "],
+            ["Adult minimum size with Maximum active area for adult"],
+            ["Quick reflection, High images quality"],
+            ["CMOS type sensor"],
+            ["Fast and clear image display"],
+            ["High senstivity & lowest dose imaging"],
+            ["Shoot under the low doses environs"],
+            [".CSI scintillator, Fast & Eefficient work flow"],
+            ["Leading-Edge Technology"],
+            ["Scintilator"],
+            ["Optic fibre"],
+            ["High resolution CMOS sensor"],
+            ["Electronics"]
+        ]
+    }, {
+        "title": "sealing machine",
+        "category": "Sealing Machines",
+        "brand": "Easyseal",
+        "images": ["sealing-machines"],
+        "technicalInfo": [
+            ["Temperature controled by microprocessor"],
+            ["Temperature displayed by digital tube"],
+            ["Adjustable temperature"],
+            ["Automatic protection for ultra-high temp."],
+            ["Low temperature automatic alarm"],
+            ["Over-current protection"],
+            ["Fast heating speed, stable performance"],
+            ["Built-in double-edged cutting knife for smooth incision."],
+            ["Beautiful appearance, safe use"],
+            ["Easy operation, low repair rate"]
+
+        ]
+    }
+]

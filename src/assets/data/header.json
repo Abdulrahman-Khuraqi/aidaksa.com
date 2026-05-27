@@ -1,0 +1,55 @@
+{
+    "buttonTextAr": "تواصل معنا",
+    "buttonTextEn": "Contact us",
+    "linksAr": [
+      {
+        "title": "الرئيسية",
+        "to": "home",
+        "offset": 0
+      },
+      {
+        "title": "من نحن",
+        "to": "aboutus",
+        "offset": -100,
+        "badge": ""
+      },
+      {
+        "title": "ماذا نقدم؟",
+        "to": "services",
+        "offset": -100
+      },
+      {
+        "title": "الملف التعريفي",
+        "to": "",
+        "badge": "Pdf",
+        "offset": -100,
+        "url": "/assets/pdf/AIDA-Profile-2024.pdf"
+      }
+    ],
+    "linksEn": [
+      {
+        "title": "Home",
+        "to": "home",
+        "offset": 0
+      },
+      {
+        "title": "About Us",
+        "to": "aboutus",
+        "offset": -100,
+        "badge": ""
+      },
+      {
+        "title": "What We Offer",
+        "to": "services",
+        "offset": -100
+      },
+      {
+        "title": "Profile",
+        "to": "",
+        "badge": "Pdf",
+        "offset": -100,
+        "url": "/assets/pdf/AIDA-Profile-2024.pdf"
+      }
+    ]
+  }
+  

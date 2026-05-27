@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@200;400;500;700&display=swap");
+:root {
+  --bs-primary-rgb: #51be9b;
+  --primary-color: #51be9b;
+  --color-primary: #51be9b;
+  --color-primary-dark: #4ca789;
+  --secondary-color: #121212;
+  --color-dark:#121212;
+  --primary-background: #F6FCFA;
+  --color-background: #F6FCFA;
+  --font-ar: 'Tajawal', sans-serif;
+  --font-body: 'Tajawal', sans-serif;
+  --font-hero: 'Tajawal', sans-serif;
+  --font-p: Tajawal, sans-serif;
+  --font-size-22: 22px;
+  --padding-form-container: 100px;
+  --padding-top-section:100px;
+}
+/* @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@200;400;500;700&display=swap"); */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins-Bold:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins-Regular:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+  font-family: var(--font-body);
+}
+
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+  --font-tajawal: Tajawal;
+  --font-poppins-regular: Poppins-Regular;
+  --font-poppins-bold: "Poppins",sans-serif;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-24xl: 43px;
+  --fs-section-title: 43px;
+  --fs-title-blog:36px;
+  --font-size-49xl: 68px;
+  --font-size-41xl: 60px;
+  --fs-18:18px;
+  --fs-p: 18px;
+  --fs-16:16px;
+  /* line height */
+  --lh-bigtxt: 84px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-mintcream: #f6fcfa;
+  --color-slategray: #777e90;
+  --color-gray-100: #23262f;
+  --color-gray-200: #121213;
+  --color-gainsboro: #e6e8ec;
+  --color-mediumaquamarine-100: #51be9b;
+  --color-mediumaquamarine-200: #4ca789;
+  --color-primary: #51be9b;
+  --color-secondary:#23262f;
+  /* border radiuses */
+  --br-mid: 17px;
+  --br-18xl: 37px;
+  --br-sm: 14px;
+  --br-20xl: 39px;
+  --br-smi: 13px;
+  --br-5xl: 24px;
+  --p-container:100px 100px;
+  --p-container-light:20px 100px;
+  --br-container:40px;
+  --br-button: 100px;
+  --fz-content-title: 3.25rem;
+}
+
+@media (max-width: 768px) {
+  :root {
+      --font-size-49xl: 45px;
+      --fs-section-title: 28px;
+      --fs-title-blog:24px;
+      --lh-bigtxt: 60px;
+      --fs-p: 16px;
+      --fs-18: 16px;
+      --padding-form-container: 50px 10px 50px 10px;
+      --font-size-22: 18px;
+      --p-container:80px 20px;
+      --p-container-light:20px 10px;
+      --padding-top-section:60px;
+      --font-size-hero:44px;
+      --font-size-title: 36px;
+      --fz-section-title:2.75rem;
+      --fz-content-title:2.25rem;
+      --font-size-md:18px;
+      --font-size-xxl: 50px;
+  }
+}
+@media (max-width: 576px) {
+  :root {
+    --font-size-hero:36px;
+    --fz-section-title:2.25rem;
+    --fz-content-title:1.75rem;
+    --margin-section:30px;
+  }
+}
+
+html[dir="rtl"] {
+  direction: rtl;
+  text-align: start;
+}
+
+html[dir="ltr"] {
+  direction: ltr;
+  text-align: start;
+}

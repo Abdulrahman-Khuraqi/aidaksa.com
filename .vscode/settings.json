@@ -1,0 +1,10 @@
+{
+    "html-css-class-completion.enableEmmetSupport": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#511E09",
+        "titleBar.activeBackground": "#722A0C",
+        "titleBar.activeForeground": "#FEFBF9",
+        "titleBar.inactiveBackground": "#5D0E13",
+        "titleBar.inactiveForeground": "#FEFBFB"
+    }
+}

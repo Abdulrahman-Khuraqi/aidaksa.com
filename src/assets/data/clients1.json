@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "lightImage": "1",
+    "name": "جامعة جدة"
+  },
+  {
+    "id": 2,
+    "lightImage": "../../assets/images/logos/2.webp",
+    "name": "مجموعة الخريف"
+  },
+  {
+    "id": 3,
+    "lightImage": "../../assets/images/logos/3.webp",
+    "name": "جامعة الملك فيصل"
+
+  },
+  {
+    "id": 4,
+    "lightImage": "../../assets/images/logos/4.webp",
+    "name": "الخرافي"
+  },
+  {
+    "id": 5,
+    "lightImage": "../../assets/images/logos/5.webp",
+    "name": "المزيني"
+  },
+  {
+    "id": 6,
+    "lightImage": "../../assets/images/logos/6.webp",
+    "name": "جامعة جازان"
+  },
+  {
+    "id": 7,
+    "lightImage": "../../assets/images/logos/7.webp",
+    "name": "البواني"
+  },
+  {
+    "id": 8,
+    "lightImage": "../../assets/images/logos/8.webp",
+    "name": "مجموعة محمد العالي السويلم"
+  },
+  {
+    "id": 9,
+    "lightImage": "../../assets/images/logos/9.webp",
+    "name": "Archirodon"
+  },
+  {
+    "id": 10,
+    "lightImage": "../../assets/images/logos/10.webp",
+    "name": "جامعة الأميرة نورة بنت عبدالرحمن"
+  },
+  {
+    "id": 11,
+    "lightImage": "../../assets/images/logos/11.webp",
+    "name": "Bin quraya construction"
+  },
+  {
+    "id": 12,
+    "lightImage": "../../assets/images/logos/12.webp",
+    "name": "تمرس "
+  },
+
+  {
+    "id": 14,
+    "lightImage": "../../assets/images/logos/14.webp",
+    "name": "أبانا"
+  },
+  {
+    "id": 15,
+    "lightImage": "../../assets/images/logos/15.webp",
+    "name": "شركة دوسان للصناعات الثقيلة والانشاءات المحدودة"
+  }
+]

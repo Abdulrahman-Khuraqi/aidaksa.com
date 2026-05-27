@@ -1,0 +1,56 @@
+{
+    "buttonTextAr": "تواصل معنا",
+    "buttonTextEn": "Contact us",
+    "linksAr": [{
+        "title": "الرئيسية",
+        "to": "home",
+        "offset": 0
+    }, {
+        "title": "من نحن",
+        "to": "aboutus",
+        "offset": -100
+
+    }, {
+        "title": "ماذا نقدم؟",
+        "to": "services",
+        "offset": -100
+
+    }, {
+        "title": " عملاءنا المميزون",
+        "to": "clients",
+        "offset": -100
+
+    }],
+    "linksEn": [{
+        "title": "Home",
+        "to": "home",
+        "offset": -100
+
+    }, {
+        "title": "About us",
+        "to": "aboutus",
+        "offset": -100
+
+    }, {
+        "title": "Message",
+        "to": "mission",
+        "offset": -100
+
+    }, {
+        "title": "Valuse",
+        "to": "values",
+        "offset": -100
+
+    }, {
+        "title": "Services",
+        "to": "services",
+        "offset": -100
+
+    }, {
+        "title": "Partners",
+        "to": "partners",
+        "offset": -100
+
+    }]
+
+}
