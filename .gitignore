@@ -10,7 +10,8 @@
 
 # next.js
 /.next/
-/out/
+# NOTE: keep `out/` tracked for this repo
+# /out/
 
 # production
 /build
